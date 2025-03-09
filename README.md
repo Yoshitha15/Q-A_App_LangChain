@@ -1,1 +1,2 @@
 # Q-A_App_LangChain
+Developed a Retrieval-Augmented Generation (RAG) pipeline leveraging LangChain and HuggingFace libraries to enable context-aware language model responses. The project involves fetching and processing unstructured text data from various URLs, splitting the content into manageable chunks, and integrating retrieval mechanisms to augment the generative capabilities of a large language model.
